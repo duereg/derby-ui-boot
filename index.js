@@ -1,4 +1,4 @@
-var lessRoot = __dirname + '/node_modules/bootstrap/less/'
+var lessRoot = __dirname + '/node_modules/twitter-bootstrap/less/'
   , config = {
       ns: 'boot'
     , filename: __filename
